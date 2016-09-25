@@ -1,0 +1,3 @@
+# structlog [![GoDoc](https://godoc.org/github.com/jjeffery/structlog?status.svg)](https://godoc.org/github.com/jjeffery/structlog) [![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/jjeffery/structlog/master/LICENSE.md) [![Build Status](https://travis-ci.org/jjeffery/structlog.svg?branch=master)](https://travis-ci.org/jjeffery/structlog) [![Coverage Status](https://coveralls.io/repos/github/jjeffery/structlog/badge.svg?branch=master)](https://coveralls.io/github/jjeffery/structlog?branch=master)
+
+Package structlog provides a simple structured logging facade.
